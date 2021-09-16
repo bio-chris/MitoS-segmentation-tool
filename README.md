@@ -14,7 +14,7 @@ To download the MitoS (GPU) for Linux tool visit https://zenodo.org/record/35564
 
 To download the MitoS (CPU) for Linux tool visit https://zenodo.org/record/3556714#.XeAHUdV7lPY
 
-## To analyse images segmented with the MitoS tool check out https://github.com/bio-chris/MitoSegNet_Analyser
+#### To analyse images segmented with the MitoS tool check out https://github.com/bio-chris/MitoSegNet_Analyser
 
 ## Bug found in Advanced Mode, Create augmented data (Linux executables)
 
